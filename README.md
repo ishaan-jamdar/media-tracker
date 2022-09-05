@@ -1,2 +1,2 @@
-# blog-list
-A full stack implementation of an application to track interesting blogs, or pieces of media in general.
+# media-tracker
+A full stack application to track interesting pieces of media you have seen, read, or watched along with other user's ratings.
